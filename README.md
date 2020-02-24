@@ -2,27 +2,27 @@
 
 # Ejercicios Simples
 
-# Escriba un programa que calcule el volumen de una esfera de radio = r, volumen de la esfera = 4/3 * PI * radio3
+Escriba un programa que calcule el volumen de una esfera de radio = r, volumen de la esfera = 4/3 * PI * radio3
 [solucion](https://github.com/damartinezru/python-ejercicios/blob/master/ejercicios-simples/esfera.py)
 
-# Escriba un programa que calcule la hipotenusa de un triángulo rectángulo
+Escriba un programa que calcule la hipotenusa de un triángulo rectángulo
 [solucion](https://github.com/damartinezru/python-ejercicios/blob/master/ejercicios-simples/hipotenusa.py)
 
 # Ejercicios Condicionales
 
-# Escriba un programa que dado un número del 1 a 7 escriba el correspondiente nombre del día de la semana
+Escriba un programa que dado un número del 1 a 7 escriba el correspondiente nombre del día de la semana
 [solucion](https://github.com/damartinezru/python-ejercicios/blob/master/ejercicios-condicionales/diaSemana.py)
 
-# Escribir un programa que lea dos números desde el teclado y si el primero es mayor que el segundo intercambie sus valores.
-[solucion] (https://github.com/damartinezru/python-ejercicios/blob/master/ejercicios-condicionales/intercambiarValores.py)
+Escribir un programa que lea dos números desde el teclado y si el primero es mayor que el segundo intercambie sus valores.
+[solucion](https://github.com/damartinezru/python-ejercicios/blob/master/ejercicios-condicionales/intercambiarValores.py)
 
 # Ejercicios Ciclos
 
-# Escribir un programa que visualice en pantalla los números pares entre 1 y 25
+Escribir un programa que visualice en pantalla los números pares entre 1 y 25
 [solucion](https://github.com/damartinezru/python-ejercicios/blob/master/ejercicios-ciclos/pares.py)
 
-# Escribir un programa que realice la pregunta ¿Desea continuar S/N? y que no deje de hacerla hasta que se teclee n
-[solucion] (https://github.com/damartinezru/python-ejercicios/blob/master/ejercicios-ciclos/preguntaCiclo.py)
+Escribir un programa que realice la pregunta ¿Desea continuar S/N? y que no deje de hacerla hasta que se teclee n
+[solucion](https://github.com/damartinezru/python-ejercicios/blob/master/ejercicios-ciclos/preguntaCiclo.py)
 
 # Ejercicios Modulos
 # Crear un módulo que permita validar un número según la base en la cual este expresado, las bases validas deben ser 2, 8, 10 y 16.
