@@ -1,4 +1,4 @@
-# python-modelos-dos
+# python-ejercicios
 
 # Ejercicios Simples
   
