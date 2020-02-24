@@ -40,6 +40,7 @@ Escribir un programa que lea y muestre en pantalla el archivo generado en el eje
 # Ejercicios Funciones
 Escribir un programa que, mediante una función, calcule el resultado de restar el doble de un numero a su cuadrado. 
 [solucion](https://github.com/damartinezru/python-ejercicios/blob/master/ejercicios-funciones/restarDoble.py)
+
 Escribir un programa, que con funciones, verifique si un carácter introducido es un número o no.
 [solucion](https://github.com/damartinezru/python-ejercicios/blob/master/ejercicios-funciones/validacionNumerica.py)
 
@@ -61,6 +62,7 @@ Decir si una frase es o no un palíndromo, es decir, si se lee igual de derecha 
 # Ejercicios Colecciones
 Escribir un programa que almacene en un lista los números primos comprendidos entre un rango definido por el usuario.
 [solucion](https://github.com/damartinezru/python-ejercicios/blob/master/ejercicios-colecciones/numerosPrimos.py)
+
 Escribir un programa que llene una lista con los veinte primeros números pares y calcule su suma.
 [solucion](https://github.com/damartinezru/python-ejercicios/blob/master/ejercicios-colecciones/paresSuma.py)
 
