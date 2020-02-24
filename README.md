@@ -71,3 +71,6 @@ Escribir un programa que implemente un calendario perpetuo, es decir, que dado u
 día y año le retorne al usuario el día de la semana que corresponde para esta
 fecha.
 [solucion](https://github.com/damartinezru/python-ejercicios/blob/master/ejercicios-varios/diaSemanaCalendario.py)
+
+Modifique el ejercicio anterior para que el conteo se haga hacia atras desde el tiempo leido hasta cero
+[solucion](https://github.com/damartinezru/python-ejercicios/blob/master/ejercicios-varios/timerReverso.py)
