@@ -38,3 +38,6 @@ https://github.com/damartinezru/python-ejercicios/tree/master/ejercicios-cadenas
 43 - 53 
 https://github.com/damartinezru/python-ejercicios/tree/master/ejercicios-colecciones
 
+# Ejercicios Varios
+93
+https://github.com/damartinezru/python-ejercicios/tree/master/ejercicios-varios
